@@ -22,7 +22,7 @@ Este repositorio contiene una solución para la gestión de clientes y propiedad
 
 ### Ambiente de Desarrollo
 
-1. Clona el repositorio: `git clone https://github.com/tuusuario/turepositorio.git`
+1. Clona el repositorio: `git clone [https://github.com/tuusuario/turepositorio.git](https://github.com/AlexGZ2/ProblemaEmpresaJAVER.git)`
 2. Configura los archivos de configuración [mencionar aquí si hay algún archivo específico que deba configurarse].
 3. Abre el archivo index.html en un navegador web para acceder a la aplicación.
 
