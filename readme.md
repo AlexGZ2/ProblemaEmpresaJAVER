@@ -2,7 +2,7 @@
 
 ## Resumen Ejecutivo
 
-Este repositorio contiene una solución para la gestión de clientes y propiedades desarrollada para la empresa Javer. La solución busca resolver la problemática de [describir aquí el problema identificado] mediante una aplicación web que permite [describir aquí la solución propuesta]. La arquitectura de la aplicación se basa en [descripción breve de la arquitectura].
+Este repositorio contiene una solución para la gestión de clientes y propiedades desarrollada para la empresa Javer. La solución busca resolver la problemática de lotes y clientes mediante una aplicación web que permite hacer mas facil la verificacion de lotes y platica con clientes. 
 
 ## Tabla de Contenidos
 
@@ -15,45 +15,45 @@ Este repositorio contiene una solución para la gestión de clientes y propiedad
 
 ## Requerimientos
 
-- Paquetes Adicionales: [Lista de paquetes adicionales requeridos]
-- Versión de Java: [Versión requerida de Java]
+- Paquetes Adicionales: 
+- Versión de Java: 1.8
 
 ## Instalación
 
 ### Ambiente de Desarrollo
 
 1. Clona el repositorio: `git clone [https://github.com/tuusuario/turepositorio.git](https://github.com/AlexGZ2/ProblemaEmpresaJAVER.git)`
-2. Configura los archivos de configuración [mencionar aquí si hay algún archivo específico que deba configurarse].
+2. Configura los archivos de configuración
 3. Abre el archivo index.html en un navegador web para acceder a la aplicación.
 
 ### Pruebas Manuales
 
-1. [Instrucciones para ejecutar pruebas manuales]
+1.
 
 ### Implementación en Producción
 
-1. [Instrucciones para implementar en un ambiente local o en la nube]
+1. 
 
 ## Configuración
 
-- Archivos de Configuración: [Descripción de los archivos de configuración y su propósito].
-- Configuración de Requerimientos: [Cómo configurar los requerimientos].
+- Archivos de Configuración:
+- Configuración de Requerimientos:
 
 ## Uso
 
 ### Usuario Final
 
-- [Manual para el usuario final]
+- 
 
 ### Usuario Administrador
 
-- [Instrucciones para el usuario administrador]
+- 
 
 ## Contribución
 
 Si deseas contribuir al proyecto, sigue estos pasos:
 
-1. Clona el repositorio: `git clone https://github.com/tuusuario/turepositorio.git`
+1. Clona el repositorio: `git clone [https://github.com/tuusuario/turepositorio.git](https://github.com/AlexGZ2/ProblemaEmpresaJAVER.git)t`
 2. Crea un nuevo branch: `git checkout -b nombre-del-branch`
 3. Realiza tus cambios y commits.
 4. Envía un Pull Request desde tu branch al branch principal.
@@ -62,4 +62,4 @@ Si deseas contribuir al proyecto, sigue estos pasos:
 
 ## Roadmap
 
-- [Lista de requerimientos que se implementarán en el futuro]
+- 
