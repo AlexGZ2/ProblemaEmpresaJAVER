@@ -15,7 +15,7 @@ Este repositorio contiene una solución para la gestión de clientes y propiedad
 
 ## Requerimientos
 
-- Paquetes Adicionales: 
+- Paquetes Adicionales: Mysql connector, servlet-api
 - Versión de Java: 1.8
 
 ## Instalación
