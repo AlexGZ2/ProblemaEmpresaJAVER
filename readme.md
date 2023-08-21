@@ -27,12 +27,35 @@ Este repositorio contiene una solución para la gestión de clientes y propiedad
 3. Abre el archivo index.html en un navegador web para acceder a la aplicación.
 
 ### Pruebas Manuales
+Inicio de Sesión:
 
-1.
+Ingresa con un usuario válido y verifica que puedas acceder correctamente.
+Intenta acceder con credenciales incorrectas y confirma que se muestre un mensaje de error adecuado.
+Registro de Cliente:
+
+Ingresa detalles válidos de un nuevo cliente y verifica que puedas registrarlos exitosamente.
+Intenta registrar un cliente sin proporcionar todos los campos requeridos y verifica que se muestre un mensaje de error.
+Registro de Propiedad (Lote):
+
+Ingresa detalles válidos de un nuevo lote y verifica que puedas registrarlos exitosamente.
+Intenta registrar un lote sin proporcionar todos los campos requeridos y verifica que se muestre un mensaje de error.
+Visualización de Listas:
+
+Accede a la lista de clientes y verifica que se muestren correctamente todos los clientes registrados.
+Accede a la lista de propiedades (lotes) y verifica que se muestren correctamente todas las propiedades registradas.
+Edición y Eliminación:
+
+Selecciona un cliente existente y realiza una edición en sus detalles. Confirma que los cambios se reflejen correctamente.
+Selecciona un lote existente y realiza una edición en sus detalles. Confirma que los cambios se reflejen correctamente.
+Intenta eliminar un cliente y un lote, y verifica que se muestren mensajes de confirmación antes de realizar la eliminación.
 
 ### Implementación en Producción
-
-1. 
+La implementación en producción de este proyecto se centra en configurar el entorno web y la base de datos en un servidor. Sigue estos pasos para llevar a cabo la implementación:
+1. Servidor Web y Base de Datos: Configura un sistema de gestión de bases de datos (como MySQL) en el mismo servidor o en otro servidor dedicado.
+2. Ambiente de Producción: Asegúrate de que el servidor web y el sistema de bases de datos estén en funcionamiento en el entorno de producción.
+3. Despliegue de Archivos: Copia todos los archivos de la aplicación (HTML, JSP, archivos Java compilados, recursos estáticos, etc.) en el directorio adecuado del servidor web. Utiliza herramientas de administración de archivos o de línea de comandos.
+4. Base de Datos en Producción: Crea una base de datos en tu sistema de gestión de bases de datos.
+5. Capacitación y Documentación: Proporciona capacitación a los usuarios finales y al equipo de administración sobre cómo utilizar la aplicación en producción. Mantén actualizada la documentación del proyecto.
 
 ## Configuración
 
@@ -104,7 +127,3 @@ Si deseas contribuir al proyecto, sigue estos pasos:
 4. Envía un Pull Request desde tu branch al branch principal.
 5. Espera a que tu Pull Request sea revisado y aprobado.
 6. Realiza el merge después de la aprobación.
-
-## Roadmap
-
-- 
